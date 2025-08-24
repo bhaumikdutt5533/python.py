@@ -1,5 +1,5 @@
 # python.py
-#write a program to pass a list to a function and display it 
+# write a program to pass a list to a function and display it 
 
 def displayList(list):
         for item in list:
